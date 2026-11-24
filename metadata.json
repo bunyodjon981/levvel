@@ -1,0 +1,6 @@
+{
+  "name": "Lavelle",
+  "description": "VN-style photo & music video montage studio with templates, MP4 export, and portable .lvl project files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

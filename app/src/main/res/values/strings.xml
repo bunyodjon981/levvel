@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lavelle</string>
+    <string name="tab_templates">Shablonlar</string>
+    <string name="tab_projects">Loyihalar</string>
+    <string name="tab_profile">Profil</string>
+    <string name="open_lvl_file">.lvl Ochish</string>
+    <string name="new_project">Yangi montaj</string>
+    <string name="use_template">Shablonni ishlatish</string>
+    <string name="export_title">Eksport va Saqlash</string>
+    <string name="export_mp4">Video (MP4) yuklab olish</string>
+    <string name="export_lvl">Shablon (.lvl) eksport qilish</string>
+    <string name="loading_lvl">Lavelle fayli yuklanmoqda…</string>
+</resources>
