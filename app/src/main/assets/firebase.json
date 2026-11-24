@@ -1,7 +1,7 @@
 {
-  "projectId": "",
-  "apiKey": "",
-  "databaseUrl": "",
-  "appId": "",
-  "storageBucket": ""
+  "projectId": "lavelle-52e30",
+  "apiKey": "AIzaSyDtKWiGlG5ILIZgPNdBp5s0NsRVvAD_EhU",
+  "databaseUrl": "https://lavelle-52e30-default-rtdb.firebaseio.com",
+  "appId": "1:519745233259:android:7f37f0ae187e543559ec2e",
+  "storageBucket": "lavelle-52e30.firebasestorage.app"
 }
